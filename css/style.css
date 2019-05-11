@@ -1,0 +1,54 @@
+    body {
+  background-image: url("arboles.jpg.jpg");
+  background-color: #cccccc;
+  color: white;
+
+}
+
+        #hoja {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 80%;
+        }
+        #titulo {
+            font-family: Arial;
+            text-align: center;
+            background-color: FORESTGREEN;
+            display: block;
+            color: white;
+            padding: 10px;
+            font-size: 50px;
+            background-color:rgba(34,139,34,0.6);
+        }
+        .contenido1 {display:block; }
+        .contenidoa {display:block; }
+        .resumencv {background-color: DARKOLIVEGREEN; 
+            background-color:rgba(34,139,34,0.3); /* rgbA */
+   }
+        
+
+        div.gallery {
+            margin: 40px;
+            border: 1px solid ##4682B4;
+            float: auto;
+            width: 100px;
+            color: white;
+        }
+        div.gallery:hover {
+            border: 1px solid #777;
+            
+        }
+        div.gallery img {
+            width: 55%;
+            height: auto;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            
+        }
+        div.desc {
+            padding: 0px;
+            text-align: center;
+
+        }
